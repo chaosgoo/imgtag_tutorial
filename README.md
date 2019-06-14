@@ -76,6 +76,4 @@ model_path那一行修改为
 ````
 我一共标注了200张图片，相对而言图片数量可能还不够，但是已经可以看到目前模型已经可以正常识别部分浣熊了。比如银河护卫队中的火箭浣熊哦
 
-<video id="video" controls="" preload="none">
-      <source id="mp4" src="https://github.com/chaosgoo/imgtag_tutorial/blob/master/videos/IMG_2345.mp4?raw=true" type="video/mp4">
-      </video>
+<img src="https://github.com/chaosgoo/imgtag_tutorial/blob/master/images/raccoon.gif?raw=true"/>
